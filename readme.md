@@ -1,4 +1,4 @@
-#Hi there!
+# Hi there!
 
 Let's just keep adding more solutions (and more questions), it helps in making your GitHub calender greener along with increased problem solving abilities.
 
@@ -8,7 +8,7 @@ Let's just keep adding more solutions (and more questions), it helps in making y
 - Add new PRs for new questions
 
 ---
-##But why do it at all?
+## But why do it at all?
 
 Instead of just sending the solution in dm or a group chat in WhatsApp, why go through all of this hardwork?
 
