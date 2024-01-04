@@ -1,0 +1,4 @@
+An array is taken from user (input)
+k, k1, k2 are any elements of the array
+for k1 + k2 = k , find all possible k, k1 and k2 in the array.
+k may be taken as user input, or you can also write the solution to find every possible k1, k2 and k present in the array which satisfies the condition. 
