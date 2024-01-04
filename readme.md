@@ -3,7 +3,7 @@
 Let's just keep adding more solutions (and more questions), it helps in making your GitHub calender greener along with increased problem solving abilities.
 
 - Add your own solutions only, try not to copy from ChatGPT or Bard.
-- Naming convention for the solution source file should be like this: "name_surname.c" or "your-github-username.c"
+- Naming convention for the solution source file should be like this: "name_surname.c" or "your-github-username.c", and solution files should only be added in the `soltuions` folder just like questions should go into the `problem-statements` folder.
 - Let the peers review your code, and create new issues for solutions with flaws
 - Add new PRs for new questions
 
